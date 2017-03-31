@@ -6,7 +6,7 @@ public class CounterCulture {
 	static Scanner s = new Scanner(System.in);
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		// https://code.google.com/codejam/contest/8224486/dashboard#s=p0
 		int tests= Integer.parseInt(s.nextLine());
 		long[] input = new long[tests];
 		long[] output = new long[tests];
